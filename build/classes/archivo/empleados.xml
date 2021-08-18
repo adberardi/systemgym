@@ -1,0 +1,58 @@
+<root>
+  <PersonalAdministrativo>
+    <cedula>23943226</cedula>
+    <nombre>antonio</nombre>
+    <direccion>montalba caracas</direccion>
+    <telefono>4242507403</telefono>
+    <sueldo>1</sueldo>
+  </PersonalAdministrativo>
+  <PersonalAdministrativo>
+    <cedula>2</cedula>
+    <nombre>andrea</nombre>
+    <direccion>caracas</direccion>
+    <telefono>2</telefono>
+    <sueldo>20000</sueldo>
+  </PersonalAdministrativo>
+  <PersonalAdministrativo>
+    <cedula>1</cedula>
+    <nombre>a</nombre>
+    <direccion>a</direccion>
+    <telefono>1</telefono>
+    <sueldo>1</sueldo>
+  </PersonalAdministrativo>
+  <PersonalAdministrativo>
+    <cedula>23943226</cedula>
+    <nombre>Antonio Berardi</nombre>
+    <direccion>montalban II</direccion>
+    <telefono>4242507403</telefono>
+    <sueldo>3000</sueldo>
+  </PersonalAdministrativo>
+  <PersonalAdministrativo>
+    <cedula>23943226</cedula>
+    <nombre>Antonio Berardi</nombre>
+    <direccion>caracas</direccion>
+    <telefono>4242507403</telefono>
+    <sueldo>12</sueldo>
+  </PersonalAdministrativo>
+  <PersonalAdministrativo>
+    <cedula>6858158</cedula>
+    <nombre>Stefano</nombre>
+    <direccion>caracas</direccion>
+    <telefono>4422670</telefono>
+    <sueldo>1111</sueldo>
+  </PersonalAdministrativo>
+  <PersonalAdministrativo>
+    <cedula>23943226</cedula>
+    <nombre>Antonio</nombre>
+    <direccion>a</direccion>
+    <telefono>1</telefono>
+    <sueldo>1</sueldo>
+  </PersonalAdministrativo>
+  <PersonalAdministrativo>
+    <cedula>24042008</cedula>
+    <nombre>Jonathan Villegas</nombre>
+    <direccion>San martin</direccion>
+    <telefono>4262157883</telefono>
+    <sueldo>10000</sueldo>
+  </PersonalAdministrativo>
+</root>

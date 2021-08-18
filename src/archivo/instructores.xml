@@ -1,0 +1,13 @@
+<root>
+  <Instrutores>
+    <cedula>23943226</cedula>
+    <nombre>Antonio</nombre>
+    <telefono>1</telefono>
+    <direccion>a</direccion>
+    <AreaEntrenamiento>a</AreaEntrenamiento>
+    <sueldo>1</sueldo>
+    <turno>Tarde</turno>
+    <rutina>General</rutina>
+    <tipoDeNutricion>a</tipoDeNutricion>
+  </Instrutores>
+</root>
